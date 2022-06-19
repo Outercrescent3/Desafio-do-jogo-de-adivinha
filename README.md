@@ -6,13 +6,11 @@ No prejeto inicial o código é um pouco mais simples e permite que números sej
 ## Tabela de conteúdos
 
 - [Visão Geral](#overview)
-  - [Captura de ecrã](#screenshot)
   - [Links](#links)
-- [O meu processo](#my-process)
+  - [O meu processo](#my-process)
   - [Construído com](#built-with)
   - [O que aprendi](#what-i-learned)
 - [Autor](#autor)
--
 
 
 ## Visão geral
