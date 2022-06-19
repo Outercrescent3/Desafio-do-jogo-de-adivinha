@@ -1,6 +1,7 @@
-# Mentor de Frontend - solução de componente de código QR
+# Jogo de Adivinha com HTML, CSS e JAVASCRIPT
 
-Esta é uma solução para o [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam-no a melhorar as suas capacidades de codificação através da construção de projectos realistas. 
+Após uma pesquisa sobre JavaScript me deparei com o jogo no site da Mozilla onde resolvi fazer meu prório projeto um pouco diferente do projeto inicial.
+No prejeto inicial o código é um pouco mais simples e permite que números sejão repetidos então, no meu projeto, criei uma função onde verifica se os números já foram digitados e assim impedindo que se repita algum numero.  
 
 ## Tabela de conteúdos
 
@@ -10,24 +11,21 @@ Esta é uma solução para o [QR code component challenge on Frontend Mentor](ht
 - [O meu processo](#my-process)
   - [Construído com](#built-with)
   - [O que aprendi](#what-i-learned)
-  - [desenvolvimento continuado](#continuação do desenvolvimento)
-  - [Recursos úteis](#recursos úteis)
 - [Autor](#autor)
-- [Agradecimentos](#acknowledgments)
+-
 
 
 ## Visão geral
 
 ### Imagem de ecrã
 
-![](../imagens/screenshot.jpg)
+![](imagens/screenshot.jpg)
 
 ### Ligações
 
-- URL da solução: [Adicione aqui o URL da solução](https://your-solution-url.com)
-- URL do sítio em directo: [Adicione aqui o URL do sítio em directo](https://your-live-site-url.com)
+- URL do proejto: ( https://outercrescent3.github.io/Desafio-do-jogo-de-adivinha/)
 
-## O meu processo
+- URL do projeto original feito pela Mozilla: (https://mdn.github.io/learning-area-pt-br/javascript/introduction-to-js-1/first-splash/jogo-advinhe-o-numero.html)
 
 #### Construído com
 
@@ -37,51 +35,10 @@ Esta é uma solução para o [QR code component challenge on Frontend Mentor](ht
 
 ### O que aprendi
 
-Utilize esta secção para recapitular algumas das suas principais aprendizagens enquanto trabalha neste projecto. Escrever estas e fornecer amostras de código de áreas que pretende destacar é uma óptima forma de reforçar os seus próprios conhecimentos.
+Aprendi a manipulação de DOM com JavaScript, assim como aprendi a verificação de Arrays através de funções.
 
-Para ver como pode adicionar trechos de código, ver abaixo:
-
-```html
-<h1>algum código HTML de que me orgulho</h1>
-```
-```css
-.proud-of-this-css {
-  cor: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-Se quiser mais ajuda para escrever o Markdown, recomendamos que consulte [The Markdown Guide](https://www.markdownguide.org/) para saber mais.
-
-**Note: Apague esta nota e o conteúdo desta secção e substitua com as suas próprias aprendizagens.**
-
-### Continuação do desenvolvimento
-
-Utilize esta secção para delinear as áreas que pretende continuar a focar em projectos futuros. Estes poderão ser conceitos com os quais ainda não se sinta completamente à vontade ou técnicas que considere úteis e que deseje aperfeiçoar e aperfeiçoar.
-
-**Nota: Apague esta nota e o conteúdo desta secção e substitua-a pelos seus próprios planos para o desenvolvimento continuado.**
-
-### Recursos úteis
-
-- [Recurso de exemplo 1](https://www.example.com) - Isto ajudou-me por razões XYZ. Gostei muito deste padrão e vou utilizá-lo no futuro.
-- [Recurso de exemplo 2](https://www.example.com) - Este é um artigo surpreendente que me ajudou finalmente a compreender XYZ. Recomendá-lo-ia a qualquer pessoa que ainda esteja a aprender este conceito.
-
-**Note: Apagar esta nota e substituir a lista acima por recursos que o ajudaram durante o desafio. Estes podem ser úteis para qualquer pessoa que veja a sua solução ou para si próprio quando olhar para trás neste projecto no futuro.**
 
 ## Autor
 
-- Website - [Adicione o seu nome aqui](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@seu nome de utilizador](https://www.twitter.com/yourusername)
+- Github - Repositório - [Freancisco Santos](https://github.com/Outercrescent3)
 
-**Note: Apague esta nota e adicione/remove/edite linhas acima com base nos links que gostaria de partilhar.**
-
-## Agradecimentos
-
-É aqui que pode dar uma dica de chapéu a qualquer pessoa que o tenha ajudado neste projecto. Talvez tenha trabalhado em equipa ou se tenha inspirado na solução de outra pessoa. Este é o local perfeito para lhes dar algum crédito.
-
-**Note: Apague esta nota e edite o conteúdo desta secção conforme necessário. Se completou este desafio sozinho, sinta-se à vontade para apagar completamente esta secção.**
