@@ -20,7 +20,7 @@ Esta é uma solução para o [QR code component challenge on Frontend Mentor](ht
 
 ### Imagem de ecrã
 
-![](imagens/screenshot.jpg)
+![](../imagens/screenshot.jpg)
 
 ### Ligações
 
@@ -33,14 +33,7 @@ Esta é uma solução para o [QR code component challenge on Frontend Mentor](ht
 
 - Marcação HTML5 semântica
 - Propriedades personalizadas do CSS
-- Flexbox
-- Grelha CSS
-- Fluxo de trabalho móvel-primeiro
-- [Reagir](https://reactjs.org/) - Biblioteca do JS
-- [Next.js](https://nextjs.org/) - Reagir enquadramento
-- [Componentes Estilizados](https://styled-components.com/) - Para estilos
-
-**Note: Estes são apenas exemplos. Elimine esta nota e substitua a lista acima com as suas próprias escolhas***.
+- JavaScript
 
 ### O que aprendi
 
