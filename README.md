@@ -15,21 +15,12 @@ Esta é uma solução para o [QR code component challenge on Frontend Mentor](ht
 - [Autor](#autor)
 - [Agradecimentos](#acknowledgments)
 
-**Note: Apague esta nota e actualize o índice com base nas secções que guarda.**
 
 ## Visão geral
 
 ### Imagem de ecrã
 
 ![](imagens/screenshot.jpg)
-
-Adicione uma imagem de ecrã da sua solução. A forma mais fácil de o fazer é utilizar o Firefox para visualizar o seu projecto, clicar com o botão direito do rato na página e seleccionar "Take a Screenshot". Pode escolher uma imagem de ecrã de altura total ou uma imagem cortada com base no comprimento da página. Se for muito longa, talvez seja melhor cortá-la.
-
-Em alternativa, pode usar uma ferramenta como [FireShot](https://getfireshot.com/) para tirar a captura de ecrã. FireShot tem uma opção gratuita, pelo que não precisa de a adquirir. 
-
-Depois, corte/optimize/edite a sua imagem como quiser, adicione-a ao seu projecto, e actualize o caminho do ficheiro na imagem acima.
-
-**Nota: Apague esta nota e os parágrafos acima quando adicionar a sua imagem de ecrã. Se preferir não adicionar uma captura de ecrã, sinta-se à vontade para remover toda esta secção.**
 
 ### Ligações
 
