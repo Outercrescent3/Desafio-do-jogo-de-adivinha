@@ -21,7 +21,7 @@ Esta é uma solução para o [QR code component challenge on Frontend Mentor](ht
 
 ### Imagem de ecrã
 
-![](./imagens/captura-tela.jpg)
+![](imagens/captura-tela.jpg)
 
 Adicione uma imagem de ecrã da sua solução. A forma mais fácil de o fazer é utilizar o Firefox para visualizar o seu projecto, clicar com o botão direito do rato na página e seleccionar "Take a Screenshot". Pode escolher uma imagem de ecrã de altura total ou uma imagem cortada com base no comprimento da página. Se for muito longa, talvez seja melhor cortá-la.
 
