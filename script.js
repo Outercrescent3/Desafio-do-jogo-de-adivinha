@@ -48,8 +48,8 @@ function enviado(){
     }else{    
  // É preciso colocar !(diferente) em inLista pq eu quero que a função inLista retorne false e seja True para o IF aqui em baixo.
     if(isNumero(Number(palpite.value)) && !inLista(palpite.value, valores)){
-             valores.push(Number(palpite.value))   
-             res.innerHTML += ` ${palpite.value}, `
+             valores.push(Number(palpite.value))
+             res.innerHTML += `${palpite.value}, `
     }else{
         alert("Numero inválido ou já cadastrado!")
         
@@ -71,7 +71,7 @@ function enviado(){
         baixoOUalto.innerHTML = 'Errou!!! O número está alto'
         baixoOUalto.setAttribute('class' , 'errou')
     }
-     //  ultimoResultado.innerHTML = `${aleatorio}`   // ~~~~~~~ Essa llinha vai retornar no HTML qual valor foi o número gerado. Serve para o programador fazer os testes.
+     //  ultimoResultado.innerHTML = `${aleatorio}`   // ~~~~~~~ Essa linha vai retornar no HTML qual valor foi o número gerado. Serve para o programador fazer os testes.
     if(valores.length === 1 ){
         contagem.innerHTML = `Você já colocou : ${valores.length} número.`
         }else{
