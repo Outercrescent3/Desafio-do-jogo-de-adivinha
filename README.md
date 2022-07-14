@@ -1,7 +1,7 @@
 # Jogo de Adivinha com HTML, CSS e JAVASCRIPT
 
 Após uma pesquisa sobre JavaScript me deparei com o jogo no site da Mozilla onde resolvi fazer meu prório projeto um pouco diferente do projeto inicial.
-No prejeto inicial o código é um pouco mais simples e permite que números sejão repetidos então, no meu projeto, criei uma função onde verifica se os números já foram digitados e assim impedindo que se repita algum numero.  
+No projeto inicial o código é um pouco mais simples e permite que números sejam repetidos então, no meu projeto, criei uma função onde verifica se os números já foram digitados e assim impedindo que se repita algum numero.  
 
 ## Tabela de conteúdos
 
@@ -15,13 +15,10 @@ No prejeto inicial o código é um pouco mais simples e permite que números sej
 
 ## Visão geral
 
-### Imagem de ecrã
-
-![](imagens/screenshot.jpg)
 
 ### Ligações
 
-- URL do proejto: ( https://outercrescent3.github.io/Desafio-do-jogo-de-adivinha/)
+- URL do projeto: ( https://outercrescent3.github.io/Desafio-do-jogo-de-adivinha/)
 
 - URL do projeto original feito pela Mozilla: (https://mdn.github.io/learning-area-pt-br/javascript/introduction-to-js-1/first-splash/jogo-advinhe-o-numero.html)
 
