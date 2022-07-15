@@ -20,7 +20,7 @@ var aleatorio = Math.floor(aleatorio1)*/
         if(n >=1 && n <=100) {
             return true
         } else{
-        return false
+            return false
         }
     }
 
