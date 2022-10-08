@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2022-10-08T22:15:24.402Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.4.0" etag="KqgE2dwycUJ61-cU-dMD" type="github"><diagram id="xDFzFQIAjDEVN3Tg-4Ry">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-08T22:46:44.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="bz9puyt6kbkvqZAIHife" version="20.4.0" type="github">
+  <diagram id="xDFzFQIAjDEVN3Tg-4Ry" name="Página-1">
+    <mxGraphModel dx="1865" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gXgBQPg5gyWYRgdg-F65-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Jogo Advinha&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-533" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gXgBQPg5gyWYRgdg-F65-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="gXgBQPg5gyWYRgdg-F65-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-473" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXgBQPg5gyWYRgdg-F65-2" value="Recebe numeros do front" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-533" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gXgBQPg5gyWYRgdg-F65-3" value="Gerar um nº aleatorio entre 01 e 100 e salva em umA VARIAVEL" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-533" y="120" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gXgBQPg5gyWYRgdg-F65-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="gXgBQPg5gyWYRgdg-F65-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-650" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXgBQPg5gyWYRgdg-F65-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="gXgBQPg5gyWYRgdg-F65-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-320" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXgBQPg5gyWYRgdg-F65-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;&lt;br&gt;O numero já está na lista ?&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-541.87" y="370" width="137.75" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gXgBQPg5gyWYRgdg-F65-7" value="SIM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-625" y="405" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXgBQPg5gyWYRgdg-F65-8" value="Alerta de nº cadastrado" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gXgBQPg5gyWYRgdg-F65-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;NÃO&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-385" y="405" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXgBQPg5gyWYRgdg-F65-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="gXgBQPg5gyWYRgdg-F65-11" target="gXgBQPg5gyWYRgdg-F65-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-440" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXgBQPg5gyWYRgdg-F65-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="gXgBQPg5gyWYRgdg-F65-11" target="gXgBQPg5gyWYRgdg-F65-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-240" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-200" y="568" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXgBQPg5gyWYRgdg-F65-17" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="gXgBQPg5gyWYRgdg-F65-15">
+          <mxGeometry x="-0.1573" y="3" relative="1" as="geometry">
+            <mxPoint x="-7" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXgBQPg5gyWYRgdg-F65-11" value="&amp;lt;10 nº cadastrados ?" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="525" width="110" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="gXgBQPg5gyWYRgdg-F65-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gXgBQPg5gyWYRgdg-F65-14" value="SIM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="545" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXgBQPg5gyWYRgdg-F65-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
