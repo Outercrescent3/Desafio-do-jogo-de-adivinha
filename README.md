@@ -1,7 +1,7 @@
 # Jogo de Adivinha com HTML, CSS e JAVASCRIPT
 
 Após uma pesquisa sobre JavaScript me deparei com o jogo no site da Mozilla onde resolvi fazer meu prório projeto um pouco diferente do projeto inicial.
-No projeto inicial o código é um pouco mais simples e permite que números sejam repetidos então, no meu projeto, criei uma função onde verifica se os números já foram digitados e assim impedindo que se repita algum numero.  
+No projeto inicial o código é um pouco mais simples e permite que números sejam repetidos,então, no meu projeto, criei uma função onde verifica se os números já foram digitados e assim impedindo que se repita algum numero.  
 
 ## Tabela de conteúdos
 
